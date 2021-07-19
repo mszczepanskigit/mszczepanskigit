@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mszczepanskigit
-- 👀 I’m interested in Math, Python, Testing, Physics and Science in general.
+- 👀 I’m interested in Math, *Python*, Testing, Physics and Science in general.
 - 🌱 I’m currently learning Testing (ISTQB and others), Python (Data Science with Pandas).
 - 💞️ I’m looking to collaborate on Python projects where my math and programming skills can help with many problems.
 - 📫 You can reach me here:
@@ -7,7 +7,7 @@
     - E-mail: mateusz.szczepanski.kontakt@gmail.com
     - Cell: +48 733 299 322
  - There is my CV in atttached files if you want to look at it!
- - Now I am working in Consult Red as Software Test Engineer
+ - Now I am working in *Consult Red* as Software Test Engineer
  - Graduate Mathematics at University of Wrocław
 
 <!---
