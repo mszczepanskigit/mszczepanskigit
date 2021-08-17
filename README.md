@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mszczepanskigit
+- 👋 Hi, I’m @mszczepanskigit (Mateusz Szczepański)
 - 👀 I’m interested in Math, *Python*, Testing, Physics and Science in general.
 - 🌱 I’m currently learning Testing (ISTQB and others), Python (Data Science with Pandas).
 - 💞️ I’m looking to collaborate on Python projects where my math and programming skills can help with many problems.
