@@ -6,9 +6,9 @@
     - LinkedIn: https://www.linkedin.com/in/mateusz-szczepa%C5%84ski-539604207/
     - E-mail: mateusz.szczepanski.kontakt@gmail.com
     - Cell: +48 733 299 322
- - There is my CV in atttached files if you want to look at it!
+ - There is my CV in attached files if you want to look at it!
  - Now I work in *Consult Red* as Software Test Engineer
- - Graduate Mathematics at University of Wrocław
+ - Graduate Mathematics at University of Wrocław and currently studying for Master Degree.
 
 <!---
 mszczepanskigit/mszczepanskigit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
