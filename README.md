@@ -42,7 +42,8 @@ I'm looking to collaborate on projects where my **analytical mindset**, **math b
 ## 🎓 Education
 
 - 🎓 **B.Sc. Applied Mathematics** — University of Wrocław
-- 📖 **M.Sc. Applied Mathematics** *(in progress)* — University of Wrocław
+  - **Thesis:** *Minkowski Spacetime in Special Relativity*
+- 📖 **M.Sc. Applied Mathematics** — University of Wrocław
   - **Thesis:** *Analysis of Quantum Fourier Transform and Fast Fourier Transform in numerical solutions of differential equations*
 
 ---
@@ -68,10 +69,14 @@ I'm looking to collaborate on projects where my **analytical mindset**, **math b
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Quantum_Computing-6929C4?style=flat-square&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Automation-00B0D7?style=flat-square&logo=selenium&logoColor=white"/>
-</p>
+  <img src="https://img.shields.io/badge/GitHub-2088FF?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Quantum_Computing-6929C4?style=flat-square&logo=qiskit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTest-2EAD33?style=flat-square&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  </p>
 
 <!---
 mszczepanskigit/mszczepanskigit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
